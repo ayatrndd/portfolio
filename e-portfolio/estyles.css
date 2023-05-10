@@ -486,3 +486,11 @@
       background-color: var(--first-color);
       color: var(--first-color-lighten);
     }
+    .footer_link:hover{
+      background-color: var(--first-color-lighten);
+      color: var(--first-color);
+    }
+    .footer_copy{
+      font-size: var(--smaller-font-size);
+      color: var(--text-color);
+    }
