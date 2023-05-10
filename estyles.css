@@ -492,5 +492,5 @@
     }
     .footer_copy{
       font-size: var(--smaller-font-size);
-      color: var(--text-color);
+      color: var(--first-color-lighten);
     }
