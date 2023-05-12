@@ -35,7 +35,7 @@
      --mb-5: 2.5rem;
 
      /* z index */
-     --z-fixed: 100;
+     --z-fixed: auto;
 }
      @media screen and (min-width: 768px){
         :root{
@@ -48,6 +48,7 @@
         }
      }
      /*base*/
+   
      *,::before,::after{
         box-sizing: border-box;
      }
